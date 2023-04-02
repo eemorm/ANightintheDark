@@ -1,0 +1,94 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Play_de
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: de
+  m_SharedData: {fileID: 11400000, guid: 261f23c1392e133449dfdd32d9f6ce13, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 82658435072
+    m_Localized: SPIELEN
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11346755428352
+    m_Localized: EINSTELLUNGEN
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11641745022976
+    m_Localized: "AUFH\xD6REN"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 311646301167616
+    m_Localized: STEUERUNG
+    m_Metadata:
+      m_Items: []
+  - m_Id: 311692283322368
+    m_Localized: KREDITE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 311762550497280
+    m_Localized: SPRACHEN
+    m_Metadata:
+      m_Items: []
+  - m_Id: 311793122779136
+    m_Localized: "\xDCBERLIEFERUNG"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 313721277882368
+    m_Localized: "ZUR\xDCCK"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 314549199937536
+    m_Localized: "ZUR\xDCCK"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 315231722250240
+    m_Localized: "ZUR\xDCCK"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 315224428355584
+    m_Localized: 'W A S D, UM SICH ZU BEWEGEN
+
+      PLATZ ZUM SPRINGEN
+
+      KONTROLLE
+      ZUM HOCKEN
+
+      LINKE MAUSTASTE ZUM GREIFEN
+
+      DU KANNST NUR AN LEUCHTENDEN
+      BLAUEN DINGEN GREIFEN
+
+      SAMMLE DIE 5 IN DER FABRIK VERTEILTEN LADUNGEN
+
+      SELBST
+      DANN, KANNST DU ENTKOMMEN?'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 317035587543040
+    m_Localized: "ZUR\xDCCK"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 316963424542720
+    m_Localized: "FABRIK-EINF\xDCHRUNG"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 317006051254272
+    m_Localized: FABRIK-OUTRO
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

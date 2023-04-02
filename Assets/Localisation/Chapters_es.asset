@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Chapters_es
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: es
+  m_SharedData: {fileID: 11400000, guid: cbc2dd4b9c1d3344f8f8c5df2d4d497d, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 10977779712
+    m_Localized: "CAP\xCDTULO 1: F\xC1BRICA"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34969198592
+    m_Localized: MODO DOBLE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 56485978112
+    m_Localized: "ATR\xC1S"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

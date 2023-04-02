@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-Assets-Shared
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-Assets-Shared
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 8958b13c8ee2b5e4e8993a6506c4fafe
+  m_SerializeEntries:
+  - m_GUID: 261f23c1392e133449dfdd32d9f6ce13
+    m_Address: Assets/Localisation/Play Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+  - m_GUID: 26ac8a7b1a450d54289782024cec2ee6
+    m_Address: Assets/Localisation/Death Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+  - m_GUID: 8ec6b6d919ff0bf4ebd627fdacb1c144
+    m_Address: Assets/Localisation/Credits Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+  - m_GUID: cbc2dd4b9c1d3344f8f8c5df2d4d497d
+    m_Address: Assets/Localisation/Chapters Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: 74dba6d299c938c4f864708d97d7f0a3, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: ca2e02c422e9fb84abd4462ff3eac29f, type: 2}
+    - {fileID: 11400000, guid: 930e6d8fa59d51049829f922be22b6c8, type: 2}

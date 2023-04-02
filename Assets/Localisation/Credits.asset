@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5be51871efa6c3e4eae1703925c8f5ac, type: 3}
+  m_Name: Credits
+  m_EditorClassIdentifier: 
+  m_SharedTableData: {fileID: 11400000, guid: 8ec6b6d919ff0bf4ebd627fdacb1c144, type: 2}
+  m_Tables:
+  - {fileID: 11400000, guid: f0af92e896fcc6f4fb153b71f1629f98, type: 2}
+  - {fileID: 11400000, guid: 328c6420db893cc4e8c3397e071a1ed1, type: 2}
+  - {fileID: 11400000, guid: 5eb6bd9e29901ca48b0abe6cb8629b1a, type: 2}
+  - {fileID: 11400000, guid: 06639a64b3ff66d4589b011c4dd0ba63, type: 2}
+  - {fileID: 11400000, guid: 353112c5c5318c1408775872066bd6b9, type: 2}
+  - {fileID: 11400000, guid: cdbd04d10e089b1488dc3d1a3cf53132, type: 2}
+  m_Extensions: []
+  m_Group: String Table
+  references:
+    version: 2
+    RefIds: []
